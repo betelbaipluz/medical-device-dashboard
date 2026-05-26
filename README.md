@@ -1,1 +1,0 @@
-# medical-device-dashboard
